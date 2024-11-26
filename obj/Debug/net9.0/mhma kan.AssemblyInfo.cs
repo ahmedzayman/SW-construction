@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mhma kan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787163f81aee04251c8a7f46dea72cdff0490297")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c93b966ba0217086631dbed3426695aec36d08b")]
 [assembly: System.Reflection.AssemblyProductAttribute("mhma kan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mhma kan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
